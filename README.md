@@ -11,6 +11,9 @@ El proyecto fue encargado con **tiempo limitado**, lo que implicó aprovechar **
 A partir de esa base, se desarrolló una **versión personalizada** con **nueva lógica, UI propia, efectos de sonido originales y comportamiento avanzado para enemigos.**
 
 Debido a restricciones de licencia, algunos assets fueron **removidos** antes de su publicación en GitHub.
+<div align="left">
+  <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AB/blob/main/d363096a-87c4-4067-a36d-3c1196383c71.webp" width="350" alt="Captura del proyecto CODE:AB"/>
+</div>
 
 ---
 
@@ -59,7 +62,7 @@ La escena combina **modelos estilizados**, **animaciones de Mixamo** y **efectos
 ## 🎬 Captura del Proyecto
 
 <div align="center">
-  <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AB/blob/main/Captura.png" width="700" alt="Captura del proyecto CODE:AB"/>
+  <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AB/blob/main/Captura%20de%20pantalla%202025-11-05%20111857.png" width="350" alt="Captura del proyecto CODE:AB"/>
 </div>
 
 ---
